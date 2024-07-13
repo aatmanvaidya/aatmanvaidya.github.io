@@ -33,6 +33,13 @@ repo_theme_light: default       # https://github.com/anuraghazra/github-readme-s
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
+# CV
+# -----------------------------------------------------------------------------
+# the location for CV is hardcoded in the _includes/header.html file
+# this has to be done because cv.md location was clashing with assets/cv.pdf file
+enable_cv: true
+
+# -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
