@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-08-01
+date: 2023-09-15
 inline: true
 ---
 
-Started working at [Tattle](https://tattle.co.in/) !
+Our Paper titled, "Forecasting the Spread of Toxicity on Twitter" got accepted at <a href="https://www.sis.pitt.edu/lersais/conference/cogmi/2023/">IEEE CogMI

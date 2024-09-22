@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-13
+date: 2024-04-13
 inline: true
 ---
 
-Conducted a <a href="https://sites.google.com/view/icon2023-tattle-sharedtask/">Shared Task</a> on Gendered Abuse Detection in Indic Languages at <a href="http://icon2023.unigoa.ac.in/">ICON 2023</a>.
+The Uli Dataset paper is accepted at <a href="https://www.workshopononlineabuse.com/">Workshop on Online Harms and Abuse</a> at NAACL 2024. (Won the `Outstanding Paper Award`!!) 

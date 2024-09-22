@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-15
+date: 2023-11-15
 inline: true
 ---
 
-Our Paper titled, "Forecasting the Spread of Toxicity on Twitter" got accepted at <a href="https://www.sis.pitt.edu/lersais/conference/cogmi/2023/">IEEE CogMI
+Invited for a pannel at <a href="https://dsummit.defindia.org/">Digital Citizen Summit.</a>
