@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description: List of published and ongoing research work
 years: [2022]
-type: [ongoing, published, other]
+type: [ongoing, published]
 # type: [published]
 nav: true
 display_categories: [themes]
