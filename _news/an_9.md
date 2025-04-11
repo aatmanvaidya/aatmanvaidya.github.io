@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-03-04
+date: 2025-01-23
 inline: true
 ---
 
-Gave a talk on "Evaluating Indian Language Performance in LLMs" at the AI for Global Development by [Agency Fund](https://www.agency.fund/). ([slides](https://aatmanvaidya.github.io/assets/talk/eval-indic-llm.pdf))
+Conducted a suvery of Indic Language Capabilities in LLMs. [(preprint)](https://arxiv.org/abs/2501.13912)
