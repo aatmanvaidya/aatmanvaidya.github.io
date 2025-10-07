@@ -14,9 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a SDE/ Researcher at [Tattle](https://tattle.co.in/), where I contribute to building citizen centric open-source tools and datasets to understand and respond to online harms and abuse in India.
+I am a Research Engineer at [Tattle](https://tattle.co.in/), where I contribute to building citizen centric open-source tools and datasets to understand and respond to online harms and abuse in India.
 
-I work at the intersection of language, technology and society. My research interests broadly lie in computational social science and human centered AI, with a focus in measuring and mitigating harms like hate speech and misinformation particularly in low-resource contexts and making digital spaces safer and more inclusive.
+I work at the intersection of <u>language</u>, <u>technology</u> and <u>society</u>. My research interests broadly lie in `computational social science` and `human centered AI`, with a focus in measuring and mitigating online harms in low-resource contexts and making digital spaces safer and more inclusive.
 
 Here are some research directions I work on:
 
