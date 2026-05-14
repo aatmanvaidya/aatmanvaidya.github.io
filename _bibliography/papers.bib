@@ -5,31 +5,42 @@
 @string{acm = {Association for Computing Machinery,}}
 @string{arxiv = {arXiv,}}
 @string{acl = {Association for Computational Linguistics,}}
+@string{icwsm = {AAAI Conference on Web and Social Media,}}
 
 % all the fileds - abbr, title, preview (conf image), author, abstract, booktitle, year, publisher, pdf, metatype, html, url, doi, selected, poster, slides, award, dataset.
 % see the _layouts/bib.html file for all the types
 
-@misc{vaidya2025quant,
-  title={Quantifying the Illicit Ecosystem of Betting Apps in India}, 
+@misc{vaidya2026generative,
+  title = {Generative AI and Online Information Seeking Behaviour},
   author={Vaidya, Aatman and Garimella, Kiran},
-  year={2025},
+  year = {2026},
   metatype={ongoing}
 }
 
-@misc{vaidya2025modellingspreadtoxicityexploring,
-  abbr={ArXiv},
-  title={Modelling the Spread of Toxicity and Exploring its Mitigation on Online Social Networks}, 
-  author={Vaidya, Aatman and Bhagat, Harsh and Nagar, Seema and  Nanavati, Amit A},
-  abstract={Hate speech on online platforms has been credibly linked to multiple instances of real world violence. This calls for an urgent need to understand how toxic content spreads and how it might be mitigated on online social networks, and expectedly has been the topic of extensive research in recent times. Prior work has largely modelled hate through epidemic or spread activation based diffusion models, in which the users are often divided into two categories, hateful or not. In this work, users are treated as transformers of toxicity, based on how they respond to incoming toxicity. Compared with the incoming toxicity, users amplify, attenuate, or replicate (effectively, transform) the toxicity and send it forward. We do a temporal analysis of toxicity on Twitter, Koo and Gab and find that (a) toxicity is not conserved in the network; (b) only a subset of users change behaviour over time; and (c) there is no evidence of homophily among behaviour-changing users. In our model, each user transforms incoming toxicity by applying a "shift" to it prior to sending it forward. Based on this, we develop a network model of toxicity spread that incorporates time-varying behaviour of users. We find that the "shift" applied by a user is dependent on the input toxicity and the category. Based on this finding, we propose an intervention strategy for toxicity reduction. This is simulated by deploying peace-bots. Through experiments on both real-world and synthetic networks, we demonstrate that peace-bot interventions can reduce toxicity, though their effectiveness depends on network structure and placement strategy.},
-  year={2025},
-  booktitle={Arxiv},
-  url={https://arxiv.org/abs/2511.20546},
-  html={https://arxiv.org/abs/2511.20546},
-  pdf={../papers/mode_toxicity.pdf},
+@misc{vaidya2025quant,
+  abbr={ICWSM 2026},
+  title={Quantifying the Illicit Ecosystem of Betting Apps in India}, 
+  author={Vaidya, Aatman and Garimella, Kiran},
+  abstract={Online betting and gambling apps in India have expanded rapidly, alongside growing concern about financial loss, debt stress, and addictive use patterns. Yet the ecosystem is difficult to quantify because recruitment and harm are observed in different places: users are often acquired through social media promotion, while harms become visible later inside apps and in user complaints. We address this measurement gap with a mixed-method, multi-source study that links promotion to downstream experience. We compile three complementary datasets. First, we collect and analyze tens of thousands of betting-related advertisements from Meta’s Ad Library using an extensive keyword strategy to measure scale and characterize persuasive frames. Second, we gather a purposive sample of organic Instagram posts from ten betting-linked hashtags to study how similar narratives circulate outside formal advertising, including through surrogate sports pages and influencer-style content. Third, we analyze over 300,000 Google Play reviews for a set of betting apps, using topic modeling to extract recurring user-reported problems that reflect a harm surface including financial loss, withdrawal friction, and customer support failure. We connect these layers by constructing a shared narrative codebook for paid and organic promotion and mapping those recruitment narratives to review topics. Across sources, we find a consistent mismatch between what is promised at recruitment and what users report after adoption. Paid ads frequently frame betting as simple, quick, and highly winnable, while reviews repeatedly describe difficulty winning, blocked or delayed withdrawals, unclear rules, and perceived extractive design. Organic promotion often uses more coded and informal presentation than official ads, potentially reducing detectability while funneling users toward the same apps and referral pathways. Together, these results provide one of the first large-scale, cross-source measurements of India’s online betting promotion ecosystem and its associated user-reported harms, and they offer a general approach for studying how potentially harmful digital services sustain growth through mainstream platforms even under evolving regulation.},
+  booktitle={AAAI Conference on Web and Social Media (ICWSM)},
+  publisher={icwsm},
+  year={2026},
+  pdf={../papers/betting_apps.pdf},
   metatype={published}
 }
 
-@article{vaidya2025analysis,
+@inproceedings{vaidya2025modellingspreadtoxicityexploring,
+  title={Modelling the Spread of Toxicity and Exploring its Mitigation on Online Social Networks}, 
+  author={Vaidya, Aatman and Bhagat, Harsh and Nagar, Seema and  Nanavati, Amit A},
+  abstract={Hate speech on online platforms has been credibly linked to multiple instances of real world violence. This calls for an urgent need to understand how toxic content spreads and how it might be mitigated on online social networks, and expectedly has been the topic of extensive research in recent times. Prior work has largely modelled hate through epidemic or spread activation based diffusion models, in which the users are often divided into two categories, hateful or not. In this work, users are treated as transformers of toxicity, based on how they respond to incoming toxicity. Compared with the incoming toxicity, users amplify, attenuate, or replicate (effectively, transform) the toxicity and send it forward. We do a temporal analysis of toxicity on Twitter, Koo and Gab and find that (a) toxicity is not conserved in the network; (b) only a subset of users change behaviour over time; and (c) there is no evidence of homophily among behaviour-changing users. In our model, each user transforms incoming toxicity by applying a "shift" to it prior to sending it forward. Based on this, we develop a network model of toxicity spread that incorporates time-varying behaviour of users. We find that the "shift" applied by a user is dependent on the input toxicity and the category. Based on this finding, we propose an intervention strategy for toxicity reduction. This is simulated by deploying peace-bots. Through experiments on both real-world and synthetic networks, we demonstrate that peace-bot interventions can reduce toxicity, though their effectiveness depends on network structure and placement strategy.},
+  year={2026},
+  url={https://arxiv.org/abs/2511.20546},
+  html={https://arxiv.org/abs/2511.20546},
+  pdf={../papers/mode_toxicity.pdf},
+  metatype={ongoing}
+}
+
+@COMMENT{vaidya2025analysis,
   abbr={ArXiv},
   title={Analysis of Indic Language Capabilities in LLMs},
   author={Vaidya, Aatman and Prabhakar, Tarunima and George, Denny and Shah, Swair},
@@ -69,7 +80,7 @@
   metatype={published}
 }
 
-@article{vaidya2024overview,
+@COMMENT{vaidya2024overview,
   abbr={ICON 2023},
   title={Overview of the 2023 ICON Shared Task on Gendered Abuse Detection in Indic Languages},
   author={Vaidya, Aatman and Arora, Arnav and Joshi, Aditya and Prabhakar, Tarunima},
@@ -81,7 +92,7 @@
   website={https://sites.google.com/view/icon2023-tattle-sharedtask/home}
 }
 
-@inproceedings{vaidya2023forecasting,
+@COMMENT{vaidya2023forecasting,
   abbr={CoGMI 2023},
   title={Forecasting the Spread of Toxicity on Twitter},
   author={Vaidya, Aatman and Nagar, Seema and Nanavati, Amit A},
