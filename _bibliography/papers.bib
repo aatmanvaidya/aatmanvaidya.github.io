@@ -17,6 +17,29 @@
   metatype={ongoing}
 }
 
+@misc{vaidya2025modellingspreadtoxicityexploring,
+  title={Modelling the Spread of Toxicity and Exploring its Mitigation on Online Social Networks}, 
+  author={Vaidya, Aatman and Bhagat, Harsh and Nagar, Seema and  Nanavati, Amit A},
+  abstract={Hate speech on online platforms has been credibly linked to multiple instances of real world violence. This calls for an urgent need to understand how toxic content spreads and how it might be mitigated on online social networks, and expectedly has been the topic of extensive research in recent times. Prior work has largely modelled hate through epidemic or spread activation based diffusion models, in which the users are often divided into two categories, hateful or not. In this work, users are treated as transformers of toxicity, based on how they respond to incoming toxicity. Compared with the incoming toxicity, users amplify, attenuate, or replicate (effectively, transform) the toxicity and send it forward. We do a temporal analysis of toxicity on Twitter, Koo and Gab and find that (a) toxicity is not conserved in the network; (b) only a subset of users change behaviour over time; and (c) there is no evidence of homophily among behaviour-changing users. In our model, each user transforms incoming toxicity by applying a "shift" to it prior to sending it forward. Based on this, we develop a network model of toxicity spread that incorporates time-varying behaviour of users. We find that the "shift" applied by a user is dependent on the input toxicity and the category. Based on this finding, we propose an intervention strategy for toxicity reduction. This is simulated by deploying peace-bots. Through experiments on both real-world and synthetic networks, we demonstrate that peace-bot interventions can reduce toxicity, though their effectiveness depends on network structure and placement strategy.},
+  year={2026},
+  url={https://arxiv.org/abs/2511.20546},
+  html={https://arxiv.org/abs/2511.20546},
+  pdf={../papers/model_toxicity.pdf},
+  metatype={ongoing}
+}
+
+@inproceedings{vaidya2025quant,
+  abbr={ACL 2026},
+  title={Transfer Learning for Multilingual Polarization Detection}, 
+  author={Vaidya, Aatman},
+  abstract={This paper describes our system for Subtask 1 of SemEval-2026 Task 9: POLAR, which focuses on multilingual polarization detection. The task is formulated as a binary classification problem across 22 languages drawnfrom diverse online platforms and real-world events. We investigate three complementary approaches: supervised fine-tuning of multi-lingual encoder-only transformer models, zero-and few-shot classification using large language models (LLMs), and transfer learning from related harmful language tasks such as hate speech, toxicity, abusive language, and gender-based violence. Among the supervised models, mDeBERTa achieved the strongest baseline performance. Prompt-based methods with open-weight LLMs showed limited effectiveness, particularly in zero-shot settings. The best resultswere obtained using transfer learning, where the model was first fine-tuned on related task datasets and then adapted to the polarizationtask, achieving a Macro-F1 score of 0.81. Our findings indicate that supervised multilingualencoders remain highly effective for polarization detection and that incorporating related harmful language tasks can substantially improve performance, especially for nuanced and context-dependent expressions of polarization.},
+  booktitle={Workshop on Semantic Evaluation at Association for Computational Linguistics (ACL)},
+  publisher={acl},
+  year={2026},
+  html={https://aclanthology.org/2026.semeval-1.370.pdf},
+  metatype={published}
+}
+
 @inproceedings{vaidya2025quant,
   abbr={ICWSM 2026},
   title={Quantifying the Illicit Ecosystem of Betting Apps in India}, 
@@ -29,17 +52,6 @@
   pdf={../papers/betting_apps.pdf},
   award={Best Paper Award},
   metatype={published}
-}
-
-@inproceedings{vaidya2025modellingspreadtoxicityexploring,
-  title={Modelling the Spread of Toxicity and Exploring its Mitigation on Online Social Networks}, 
-  author={Vaidya, Aatman and Bhagat, Harsh and Nagar, Seema and  Nanavati, Amit A},
-  abstract={Hate speech on online platforms has been credibly linked to multiple instances of real world violence. This calls for an urgent need to understand how toxic content spreads and how it might be mitigated on online social networks, and expectedly has been the topic of extensive research in recent times. Prior work has largely modelled hate through epidemic or spread activation based diffusion models, in which the users are often divided into two categories, hateful or not. In this work, users are treated as transformers of toxicity, based on how they respond to incoming toxicity. Compared with the incoming toxicity, users amplify, attenuate, or replicate (effectively, transform) the toxicity and send it forward. We do a temporal analysis of toxicity on Twitter, Koo and Gab and find that (a) toxicity is not conserved in the network; (b) only a subset of users change behaviour over time; and (c) there is no evidence of homophily among behaviour-changing users. In our model, each user transforms incoming toxicity by applying a "shift" to it prior to sending it forward. Based on this, we develop a network model of toxicity spread that incorporates time-varying behaviour of users. We find that the "shift" applied by a user is dependent on the input toxicity and the category. Based on this finding, we propose an intervention strategy for toxicity reduction. This is simulated by deploying peace-bots. Through experiments on both real-world and synthetic networks, we demonstrate that peace-bot interventions can reduce toxicity, though their effectiveness depends on network structure and placement strategy.},
-  year={2026},
-  url={https://arxiv.org/abs/2511.20546},
-  html={https://arxiv.org/abs/2511.20546},
-  pdf={../papers/model_toxicity.pdf},
-  metatype={ongoing}
 }
 
 @COMMENT{vaidya2025analysis,
