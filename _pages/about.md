@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Master's student in [Computational Linguistics](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/computational-linguistics-master/) at the University of Tübingen. I am currently working as a Research Assistant with [Juhi Kulshrestha](https://css.aalto.fi/people/juhi/) in the [Computational Social Science](https://css.aalto.fi/) group at `Aalto University`. I am also advised by [Kiran Garimella](https://gvrkiran.github.io/) from Rutgers University, with whom I work on platform-mediated harms and human-AI interaction in the Global South.
+I am a Master's student in [Computational Linguistics](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/computational-linguistics-master/) at the University of Tübingen. I am currently working as a Research Assistant with [Juhi Kulshrestha](https://css.aalto.fi/people/juhi/) in the [Computational Social Science](https://css.aalto.fi/) group at `Aalto University`.
+
+I am also advised by [Kiran Garimella](https://gvrkiran.github.io/) from Rutgers University, with whom I work on platform-mediated harms and human-AI interaction in the Global South.
 
 I work at the intersection of <u>language</u>, <u>technology</u> and <u>society</u>. My research interests broadly lie in `computational social science` and `human centered AI`, with a focus in measuring and mitigating online harms in low-resource contexts and making digital spaces safer and more inclusive.
 
