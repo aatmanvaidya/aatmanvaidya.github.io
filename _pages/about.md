@@ -26,7 +26,7 @@ Here are some research directions I work on (and I am exicted about!):
 
 - **Human-AI Interaction.** I am interested in understanding how people <i>actually</i> use AI systems? how people seek information through generative AI versus the web, studied using real-world conversation data from Global South. (ongoing work)
 
-- **Participatory Design & Safety Tools.** I believe safety interventions must be grounded in the lived experiences of those most affected by online harm. At Tattle, I worked with gender rights organizations in India using participatory methods to build a [dataset on online gender-based violence](https://arxiv.org/abs/2311.09086) and co-developed an [AI safety benchmark](https://aatmanvaidya.github.io/assets/papers/ai-safety-benchmark-dataset.pdf) for Hindi.
+- **Participatory Design & Safety Tools.** I believe safety interventions must be grounded in the lived experiences of those most affected by online harm. At Tattle, I worked with gender rights organizations in India using participatory methods to build a [dataset on online gender-based violence](https://arxiv.org/abs/2311.09086) and co-developed an [AI safety benchmark](https://aatmanvaidya.github.io/assets/papers/ai-safety-benchmark-dataset.pdf) for hate and sex-related crimes in Hindi.
 
 Before starting my Master's, I worked as a `Research Engineer` at [Tattle](https://tattle.co.in/), building citizen-centric tools and datasets to understand and respond to online harms.
 
