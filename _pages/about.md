@@ -18,7 +18,7 @@ I am a Master's student in [Computational Linguistics](https://uni-tuebingen.de/
 
 I am also advised by [Kiran Garimella](https://gvrkiran.github.io/) from Rutgers University, with whom I work on `platform-mediated harms` and `human-AI interaction` in the Global South.
 
-I work at the intersection of <span style="color: #8B4513;">language</span>, <span style="color: #8B4513;">technology</span> and <span style="color: #8B4513;">society</span>. My research interests broadly lie in `computational social science` and `human centered AI`, with a focus in measuring and mitigating online harms in low-resource contexts and making digital spaces safer and more inclusive.
+I work at the intersection of <span style="color: #5C3317; font-weight: 700;">language</span>, <span style="color: #5C3317; font-weight: 700;">technology</span> and <span style="color: #5C3317; font-weight: 700;">society</span>. My research interests broadly lie in `computational social science` and `human centered AI`, with a focus in measuring and mitigating online harms in low-resource contexts and making digital spaces safer and more inclusive.
 
 Here are some research directions I work on (and I am exicted about!):
 
