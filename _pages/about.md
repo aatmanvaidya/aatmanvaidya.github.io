@@ -22,7 +22,7 @@ I work at the intersection of <span style="color: #5C3317; font-weight: 400;">la
 
 Here are some research directions I work on (and I am exicted about!):
 
-- **Online Platform-Mediated Harms.** I study how harmful and deceptive content spreads across online platforms and translates into real-world harm. My recent work quantified the [illicit betting app ecosystem in India](https://aatmanvaidya.github.io/assets/papers/betting_apps.pdf), tracing how deceptive promotion connects to documented financial harm.
+- **Online Platform-Mediated Harms.** I study how harmful and deceptive content spreads across online platforms and translates into real-world harm. My recent work quantified the [illicit betting app ecosystem in India](https://aatmanvaidya.github.io/assets/papers/betting_apps.pdf), tracing how deceptive promotion connects to documented financial harm. ([Best Paper Award](https://aatmanvaidya.github.io/assets/papers/icwsm_best_paper.pdf) runner's up at ICWSM'26)
 
 - **Human-AI Interaction.** I am interested in understanding how people <i>actually</i> use AI systems? how people seek information through generative AI versus the web, studied using real-world conversation data from Global South. (ongoing work)
 
