@@ -1,4 +1,5 @@
 # Work mentions and media coverage, newest first.
+# Optional field: `related` (e.g. a paper or project title) is shown under the headline.
 
 - outlet: Pulitzer Center
   title: "Desi Faces, Foreign Servers: Inside the AI Economy Undressing Women"

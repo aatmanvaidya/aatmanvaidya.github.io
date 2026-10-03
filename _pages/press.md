@@ -8,15 +8,22 @@ nav_order: 2
 ---
 
 <!-- _pages/press.md -->
-<div class="table-responsive">
-  <table class="table table-sm table-borderless">
-  {% for item in site.data.press %}
-    <tr>
-      <th scope="row" style="white-space: nowrap">{{ item.date }}</th>
-      <td>
-        <b>{{ item.outlet }}</b> on <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">&ldquo;{{ item.title }}&rdquo;</a>
-      </td>
-    </tr>
-  {% endfor %}
-  </table>
+<div class="press">
+{% for item in site.data.press %}
+  <div class="row press-item">
+    <div class="col-sm-2">
+      <p class="press-year">{{ item.date | split: " " | last }}</p>
+    </div>
+    <div class="col-sm-3 text-sm-right">
+      <p class="press-outlet">{{ item.outlet }}</p>
+    </div>
+    <div class="col-sm-7">
+      <p><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a></p>
+      {% if item.related %}
+      <p class="press-related">Related work: {{ item.related }}</p>
+      {% endif %}
+    </div>
+  </div>
+  {% unless forloop.last %}<hr>{% endunless %}
+{% endfor %}
 </div>

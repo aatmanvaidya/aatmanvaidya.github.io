@@ -127,7 +127,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1.1rem;
   a {
     color: inherit;
     &:hover {
@@ -603,6 +603,27 @@ footer.sticky-bottom {
       }
     }
   }
+}
+
+// Press
+
+.press {
+  .press-item {
+    margin: 0;
+    p { margin-bottom: 0.25rem; }
+  }
+  .press-year {
+    font-weight: bold;
+  }
+  .press-outlet {
+    color: var(--global-text-color-light);
+    font-style: italic;
+  }
+  .press-related {
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+  }
+  hr { margin: 0.75rem 0; }
 }
 
 // Rouge Color Customization
