@@ -30,4 +30,4 @@ Here are some research directions I work on (and I am exicted about!):
 
 Before starting my Master's, I worked as a `Research Engineer` at [Tattle](https://tattle.co.in/), building citizen-centric tools and datasets to understand and respond to online harms.
 
-You can find more information about me from my [CV](https://aatmanvaidya.github.io/assets/cv.pdf).
+You can find more information about me from my [CV](https://aatmanvaidya.github.io/assets/cv.pdf), and coverage of my work in the [press](/press/).
