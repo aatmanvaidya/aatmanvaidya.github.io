@@ -17,7 +17,10 @@ $green-color-lime:    #B7D12A !default;
 $green-color-dark:    #009f06 !default;
 $green-color-light:   #ddffdd !default;
 $green-color-bright:  #11D68B !default;
-$purple-color:        #CC5500 !default; //orange
+$purple-color:        #d64000 !default; //orange (matches diagramchasing.fun)
+$highlight-color:     #ffbfa3 !default; //light orange for highlighted words
+$highlight-color-dark: #ff773d !default;
+$highlight-pink:      #ffc2d6 !default; //light pink for award highlights
 $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
@@ -29,11 +32,11 @@ $grey-color-dark:     #502c84; //purple
 $grey-900:            lighten($grey-color, 40%);
 
 $white-color: #ffffff !default;
-$black-color: #001219 !default;
+$black-color: #0a0a0a !default;
 
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     #f5f5f5;
 $code-bg-color-dark:      lighten($grey-color-dark, 10%);
 
