@@ -24,7 +24,8 @@ h1, h2, h3, h4, h5, h6 {
 
 // Spacing tweaks: keep the font size, but give the page more room and a tighter vertical rhythm
 .container {
-  max-width: 1040px;
+  // Smaller max-width = more white space on the left and right. Try 800px-900px.
+  max-width: 860px;
   padding-left: 2rem;
   padding-right: 2rem;
 }
